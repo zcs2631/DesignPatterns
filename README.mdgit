@@ -1,0 +1,1 @@
+# DesignPatterns  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/zcs2631/DesignPatterns.gitgit push -u origin master
